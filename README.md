@@ -1,2 +1,4 @@
 # Course_complete
-I have completed this course's assignment.
+### Assignment status  
+I have completed the course assignment.
+
